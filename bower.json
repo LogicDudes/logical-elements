@@ -24,7 +24,9 @@
   "dependencies": {
     "polymer": "Polymer/Polymer#~1.2.2",
     "logical-autocomplete": "LogicDudes/logical-autocomplete",
-    "logical-behaviors": "LogicDudes/logical-behaviors",
+    "logical-site-behaviors": "LogicDudes/logical-site-behaviors",
+    "logical-page-behaviors": "LogicDudes/logical-page-behaviors",
+    "logical-list-behavior": "LogicDudes/logical-list-behavior",
     "logical-dialog": "LogicDudes/logical-dialog",
     "logical-styles": "LogicDudes/logical-styles"
   }
