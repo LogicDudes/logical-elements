@@ -1,0 +1,33 @@
+{
+  "name": "logical-elements",
+  "homepage": "https://github.com/LogicDudes/logical-elements",
+  "authors": [
+    "Kevin Ashcraft <kevin@kevashcraft.com>"
+  ],
+  "description": "links to all the logical-elements and behaviors for easy import",
+  "main": "bower.json",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/Polymer#~1.2.2",
+    "logical-autocomplete": "LogicDudes/logical-autocomplete",
+    "logical-site-behaviors": "LogicDudes/logical-site-behaviors",
+    "logical-page-behaviors": "LogicDudes/logical-page-behaviors",
+    "logical-list-behavior": "LogicDudes/logical-list-behavior",
+    "logical-dialog": "LogicDudes/logical-dialog",
+    "logical-styles": "LogicDudes/logical-styles"
+  }
+}
