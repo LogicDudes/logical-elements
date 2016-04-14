@@ -26,7 +26,6 @@
     "logical-autocomplete": "LogicDudes/logical-autocomplete",
     "logical-site-behaviors": "LogicDudes/logical-site-behaviors",
     "logical-page-behaviors": "LogicDudes/logical-page-behaviors",
-    "logical-list-behavior": "LogicDudes/logical-list-behavior",
     "logical-dialog": "LogicDudes/logical-dialog",
     "logical-styles": "LogicDudes/logical-styles"
   }
